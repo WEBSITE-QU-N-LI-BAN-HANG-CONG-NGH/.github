@@ -231,6 +231,26 @@ Thực hiện các bước sau cho từng ứng dụng Frontend: Customer, Selle
 
 ---
 
+---
+
+## 🧪 Tài Khoản Thử Nghiệm
+
+Sau khi hệ thống đã khởi chạy, bạn có thể sử dụng các tài khoản dưới đây để đăng nhập và kiểm tra chức năng của từng vai trò. Các tài khoản này đã được tạo sẵn trong file `Script_Database.sql`.
+
+### Quản Trị Viên (Admin)
+
+* **Đăng nhập tại:** `http://localhost:5175`
+* **Tài khoản:** `admin@gmail.com`
+* **Mật khẩu:** `admin`
+
+### Người Bán (Seller)
+
+* **Đăng nhập tại:** `http://localhost:5174`
+* **Tài khoản:** `seller1@example.com`
+* **Mật khẩu:** `password123`
+
+---
+
 ## ✅ Tổng Kết & Trạng Thái Hoạt Động
 
 Sau khi hoàn tất tất cả các bước trên, hệ thống của bạn sẽ hoạt động với các dịch vụ chạy tại các cổng sau:
