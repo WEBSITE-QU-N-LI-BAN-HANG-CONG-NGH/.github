@@ -1,9 +1,3 @@
-Chắc chắn rồi! Dưới đây là một file README tổng hợp, được cấu trúc lại một cách rõ ràng và chuyên nghiệp để hướng dẫn cài đặt toàn bộ hệ thống từ các phần bạn đã cung cấp.
-
-File README này tập trung vào trình tự cài đặt hợp lý, giúp người mới dễ dàng làm theo.
-
----
-
 # Hướng Dẫn Cài Đặt Hệ Thống Bán Hàng
 
 Chào mừng bạn đến với dự án Website Quản lý Bán hàng! Tài liệu này sẽ hướng dẫn bạn cách cài đặt và khởi chạy toàn bộ các thành phần của hệ thống trên máy cục bộ.
